@@ -1,5 +1,5 @@
 <configuration>
-    <apiKey>5LBGUN8VNA5RMO5E</apiKey>
+    <apiKey></=insert your key here=/></apiKey>
 	<interval>5min</interval>
 	<symbols>
 	    <symbol>BOSC</symbol>
