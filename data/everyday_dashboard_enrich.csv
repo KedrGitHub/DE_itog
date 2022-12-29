@@ -1,0 +1,4 @@
+Currency_name,Unnamed: 0,Surrogate_key,Currency_name,Volume_sum,Open_exchange_rate,Close_exchange_rate,Percent_difference,Biggest_volume_timeinterval,Max_exchange_rate_timeinterval,Min_exchange_rate_timeinterval,SMA,STOCHF,MACDEXT
+BOSC,0,BOSC-2022-11-25,BOSC,892,2.46,2.31,-6,2022-11-25 09:35:00,2022-11-25 09:35:00,2022-11-25 11:50:00,{'SMA': '2.2295'},"{'FastK': '19.9968', 'FastD': '16.6899'}","{'MACD': '-0.0606', 'MACD_Signal': '-0.0456', 'MACD_Hist': '-0.0150'}"
+FARM,1,FARM-2022-11-25,FARM,22774,5.36,5.55,3,2022-11-25 11:50:00,2022-11-25 10:20:00,2022-11-25 09:40:00,{'SMA': '5.1490'},"{'FastK': '7.2368', 'FastD': '10.2778'}","{'MACD': '-0.0140', 'MACD_Signal': '0.0463', 'MACD_Hist': '-0.0603'}"
+GOOGL,2,GOOGL-2022-11-25,GOOGL,9214704,98.71,97.37,-1,2022-11-25 13:05:00,2022-11-25 04:10:00,2022-11-25 17:00:00,{'SMA': '94.5076'},"{'FastK': '0.4905', 'FastD': '8.1903'}","{'MACD': '-7.9859', 'MACD_Signal': '-7.4340', 'MACD_Hist': '-0.5519'}"

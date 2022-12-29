@@ -1,0 +1,5 @@
+# Минута   Час        День       Месяц      День недели  Скрипт
+00          01         *          *          *            /module/everyday_load.py
+15          01         *          *          *            /module/Quality_test.py 
+30          01         *          *          *            /module/process.py  
+45          01         *          *          *            /module/enrich.py  

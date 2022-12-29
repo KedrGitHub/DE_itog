@@ -1,0 +1,9 @@
+<configuration>
+    <apiKey>5LBGUN8VNA5RMO5E</apiKey>
+	<interval>5min</interval>
+	<symbols>
+	    <symbol>BOSC</symbol>
+	    <symbol>FARM</symbol>
+	    <symbol>GOOGL</symbol>
+	</symbols>
+</configuration>  

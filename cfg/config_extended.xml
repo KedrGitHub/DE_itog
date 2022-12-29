@@ -1,0 +1,14 @@
+<configuration>
+    <apiKey>5LBGUN8VNA5RMO5E</apiKey>
+	<slice>weekly</slice>
+	<symbols>
+	    <symbol>BOSC</symbol>
+	    <symbol>FARM</symbol>
+	    <symbol>GOOGL</symbol>
+	</symbols>
+    <indics>
+	    <indic>SMA</indic>
+	    <indic>STOCHF</indic>
+	    <indic>MACDEXT</indic>
+	</indics>
+</configuration>  
